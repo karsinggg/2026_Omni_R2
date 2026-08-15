@@ -1,0 +1,26 @@
+# IDE folders
+.settings/
+.metadata/
+bin/
+obj/
+Debug/
+Release/
+
+# Build artifacts
+*.o
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+*.ldr
+*.srec
+
+# CubeIDE specific
+.mxproject
+.project
+.cproject
+
+# OS files
+Thumbs.db
+.DS_Store
